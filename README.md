@@ -1,3 +1,3 @@
-### LIST OF PROJECTS:
+## LIST OF PROJECTS:
     
-## Pulsar Clasification: 
+# 1.Pulsar Clasification (HRTU2 dataset)
