@@ -13,3 +13,12 @@ In this dataset, each candidate is characterized by eight continuous variables d
 7. Excess kurtosis of the DM-SNR curve.
 8. Skewness of the DM-SNR curve.
 9. Class
+   
+---
+
+## Clasification Strategy:
+1. Data Profiling
+2. Data Preparation
+3. Feature Selection
+4. Classification
+5. Best Model Determination
